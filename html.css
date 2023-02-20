@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+}
+
+.header {
+    padding-top: 50px;
+    padding-bottom: 10px;
+    background-color: pink;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Times New Roman';
+}
+
+.sidebar {
+    background-color: pink;
+    float: left;
+    width: 20%;
+    text-decoration-line: underline;
+    font-weight: bolder;
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+
+li {
+    padding: 25px 25px;
+}
+
+.main {
+    display: flex;
+    background-color: pink;
+    float: left;
+    margin-left: 10px;
+    width:79.2%;
+}
+
+.form {
+    padding-top: 21.275%;
+    padding-bottom: 21.275%;
+    padding-left: 30%;
+}
+
+.btn {
+    padding-top: 10px;
+    padding-left: 40%;
+}
